@@ -43,12 +43,14 @@ Error generating stack: `+l.message+`
         Developing and implementing web pages with a focus on responsiveness and user experience.
         Collaborating with design and development teams to ensure the successful execution of projects.
         Using my expertise in React.js to create interactive and engaging web applications.
-        Staying up-to-date with the latest web development trends and technologies to deliver cutting-edge solutions.`},{color:"text-",lang:"unicode--font",content:`მე ვარ დავით გრძელიშვილი, ერთგული ვებ დეველოპერი, შემოქმედებით გატაცებული...
-        გამოცდილება მაქვს HTML, CSS , js and React, მე სპეციალიზირებული ვარ დინამიური ვებ გამოცდილების შემუშავებაში, რომელიც აკმაყოფილებს და აღემატება კლიენტის მოლოდინს.ჩემს როლში მე ვარ პასუხისმგებელი:
-        ვებ გვერდების შემუშავებასა და დანერგვაზე, მომხმარებლის გამოცდილებაზე ორიენტირებული.
-        პროექტების წარმატებით შესრულების უზრუნველსაყოფად დიზაინისა და განვითარების გუნდებთან თანამშრომლობა.
-        ჩემი გამოცდილების გამოყენება React.js-ში ინტერაქტიული და მიმზიდველი ვებ აპლიკაციების შესაქმნელად.
-        იყავით განახლებული ვებ განვითარების უახლესი ტენდენციებითა და ტექნოლოგიების შესახებ, უახლესი გადაწყვეტილებების მიწოდებისთ.`}],wg=[{id:"gmail",img:gg,link:"grdzelishvilidaviti@gmail.com"},{id:"linkedin",img:_g,link:"https://www.linkedin.com/in/davit-grdzelishvili-7b1292142/"},{id:"github",img:vg,link:"https://github.com/Datoie"},{id:"facebook",img:mg,link:"https://www.facebook.com/profile.php?id=100007557528695"}],Sg=[{font:" reenie-beanie ",content:`Tanks for reading!
+        Staying up-to-date with the latest web development trends and technologies to deliver cutting-edge solutions.`},{color:"text-",lang:"unicode--font",content:`მე ვარ დავით გრძელიშვილი, ერთგული ვებ დეველოპერი ...
+        გამოცდილება მაქვს HTML, CSS , js and React, მე სპეციალიზირებული ვარ 
+        დინამიკური ვებსაიტების შემუშავებასა და გამოქვეყნებაზე, რომელიც აკმაყოფილებს 
+        და აღემატება კლიენტის მოლოდინს.მე ვიღებ პასუხისმგებლობას:
+        ვებ გვერდების შემუშავებასა და დანერგვაზე, მომხმარებლის მოთხოვნებაზე ორიენტირენული,
+        პროექტების წარმატებით შესრულებაზე, დიზაინის უზრუნველყოფაზე და განვითარებზე გუნდთან ერთად,
+        ჩემი გამოცდილება React.js-ის გამოყენებაში ინტერაქტიულ და მიმზიდველ ვებ აპლიკაციებს ქმნის,
+        იყავით განახლებული ვებ განვითარების უახლესი ტენდენციებითა და ტექნოლოგიებით , რომ გადავჭრათ ერთად პრობლემები.`}],wg=[{id:"gmail",img:gg,link:"grdzelishvilidaviti@gmail.com"},{id:"linkedin",img:_g,link:"https://www.linkedin.com/in/davit-grdzelishvili-7b1292142/"},{id:"github",img:vg,link:"https://github.com/Datoie"},{id:"facebook",img:mg,link:"https://www.facebook.com/profile.php?id=100007557528695"}],Sg=[{font:" reenie-beanie ",content:`Tanks for reading!
         Do you Searching squad?
         join Grdzelo-Squad`},{font:"unicode--font",content:`მადლობა წაკითხვისთვის!
         კიდევ ეძებ რაზმს?
